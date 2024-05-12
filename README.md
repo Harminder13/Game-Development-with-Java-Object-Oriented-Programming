@@ -1,4 +1,4 @@
-    Developed a comprehensive property rental database system to streamline property management processes.
-    Designed relational tables for properties, owners, tenants, property managers, and rental groups.
-    Implemented key functionalities including property management, ownership management, tenant management, property manager management, rental group management, and rent calculation.
-    Created a user-friendly web application using PHP to interact with the MySQL database, enabling users to view property information, manage rental groups, and calculate average monthly rent.
+•Developed Java programs demonstrating mastery of object-oriented programming concepts including inheritance, abstract classes, and polymorphism.
+•Designed and implemented a command-line game (GuessMaster) where users guess the birthdays of entities, enhancing it in subsequent versions to include abstract classes and polymorphism.
+•Transitioned the GuessMaster game to Android, creating a graphical user interface with Android Studio, incorporating AlertDialogs and event handling.
+•Demonstrated proficiency in Android programming, including layout design, activity implementation, and resource management.
