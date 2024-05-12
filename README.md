@@ -1,7 +1,7 @@
-•Developed Java programs demonstrating mastery of object-oriented programming concepts including inheritance, abstract classes, and polymorphism.
+GuessMaster: Java to Android Transition
 
-•Designed and implemented a command-line game (GuessMaster) where users guess the birthdays of entities, enhancing it in subsequent versions to include abstract classes and polymorphism.
+This repository features the GuessMaster game, initially developed in Java to demonstrate mastery of object-oriented programming concepts such as inheritance, abstract classes, and polymorphism. The game challenges users to guess the birthdays of various entities, with subsequent versions incorporating abstract classes and polymorphism for improved modularity.
 
-•Transitioned the GuessMaster game to Android, creating a graphical user interface with Android Studio, incorporating AlertDialogs and event handling.
+In a pivotal transition, I adapted GuessMaster to the Android platform. Using Android Studio, I redesigned the game with a graphical user interface, incorporating layout design, activity implementation, and resource management. Features like AlertDialogs and event handling were integrated to enhance user interaction and feedback.
 
-•Demonstrated proficiency in Android programming, including layout design, activity implementation, and resource management.
+This project serves as a showcase of my proficiency in both Java and Android development, highlighting my ability to translate concepts across platforms and create engaging applications with intuitive user experiences.
