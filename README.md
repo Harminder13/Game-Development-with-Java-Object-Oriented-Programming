@@ -1,5 +1,3 @@
-Here’s a refined and visually appealing GitHub description for your **GuessMaster: Java to Android Transition** project:
-
 ---
 
 # 🎯 **GuessMaster: Java to Android Transition**  
