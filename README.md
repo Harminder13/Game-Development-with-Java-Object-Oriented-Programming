@@ -45,3 +45,7 @@ This repository showcases the evolution of **GuessMaster** — a game originally
 ✅ **UI Optimization:** Enhanced rendering performance using View Binding and efficient resource handling.  
 
 ---
+### 📄 **License**  
+This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.  
+
+---
